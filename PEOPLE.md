@@ -1,1 +1,1 @@
-Haskell Curry
+hexlet rules!
